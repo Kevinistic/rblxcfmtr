@@ -1,6 +1,6 @@
 # rblxcfmtr
 CB IM TIRED OF GETTING CATFISHED<br>
-just insert profile link, it will work on its own giving a metric from 0.00 to 1.00
+roblox api sucks, this is merely a helper
 
 ## How to use
 WIP
